@@ -7,7 +7,7 @@
 <%@tag description="put the tag description here" pageEncoding="UTF-8"%>
 
 <%-- The list of normal or fragment attributes can be specified here: --%>
-<%@attribute name="message"%>
+<%@attribute name="pageTitle"%>
 
 <!DOCTYPE html>
 <html>
